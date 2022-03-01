@@ -1,0 +1,7 @@
+---
+
+- name: Creating new user with role
+  hosts: all
+
+  roles:
+    - users
